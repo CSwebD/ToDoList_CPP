@@ -2,9 +2,6 @@
 
 A feature-rich C++ console application for task management with achievement tracking and lifecycle management.
 
-![Application Demo](screenshots/demo.png)
-*Main application interface*
-
 ## 🚀 Features
 
 ### Core Functionality
