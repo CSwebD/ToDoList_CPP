@@ -20,23 +20,10 @@ A feature-rich C++ console application for task management with achievement trac
 - 💾 **Save**: Save current progress to files
 - 🚪 **Close**: Save everything and exit application
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-### Main Menu
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](screenshots/ToDoList_CPP_screenshot.png)
 *Application startup screen with options*
-
-### Adding Tasks
-![Add Tasks](screenshots/add_tasks.png)
-*Task creation interface*
-
-### Task Management
-![Task Management](screenshots/task_management.png)
-*Interactive task processing screen*
-
-### Generated Files
-![Output Files](screenshots/output_files.png)
-*Generated achievement and statistics files*
 
 ## 🛠️ Installation & Setup
 
