@@ -185,26 +185,6 @@ Add Tasks → Manage Tasks → [Done/Skip] → Cycle Through → Save → Close
 **Permission Errors**
 - Solution: Run as administrator or check folder permissions
 
-## 📞 Support
-
-- **Issues**: Open an issue on GitHub
-- **Questions**: Create a discussion in the repository
-- **Email**: [Your email if you want to provide it]
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with Visual Studio 2022
-- Inspired by productivity and time management principles
-- Thanks to the C++ community for best practices
-
----
-
-**⭐ If you find this project helpful, please consider giving it a star!**
-
 ---
 
 *Last updated: June 2025*
