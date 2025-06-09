@@ -50,7 +50,7 @@ A feature-rich C++ console application for task management with achievement trac
 #### Using Visual Studio 2022
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ToDoListApp.git
+   git clone https://github.com/CSwebD/ToDoListApp.git
    cd ToDoListApp
    ```
 
