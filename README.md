@@ -22,7 +22,7 @@ A feature-rich C++ console application for task management with achievement trac
 
 ## 📸 Screenshot
 
-![Main Menu](ToDoList_CPP_screenshot.png)
+![Main Menu](/ToDoList_CPP_screenshot.PNG)
 *Application startup screen with options*
 
 ## 🛠️ Installation & Setup
