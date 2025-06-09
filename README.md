@@ -63,7 +63,7 @@ A feature-rich C++ console application for task management with achievement trac
 #### Using Command Line (MinGW/GCC)
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/ToDoListApp.git
+git clone https://github.com/CSwebD/ToDoListApp.git
 cd ToDoListApp
 
 # Compile
